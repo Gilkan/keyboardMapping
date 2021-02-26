@@ -45,5 +45,3 @@ function activateKeyboardMapping(functionToExecuteOnMap=null){
 
     return keyMapping;
 }
-
-export activateKeyboardMapping;
